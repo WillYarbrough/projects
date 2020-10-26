@@ -9,7 +9,7 @@ This calculator will calculate daily totals for Calories, Protein, Fats, and Car
 using namespace std;
 
 int main() {
-	vector<int> dailyMeals;
+	
 	vector<int> totCals;
 	vector<int> totProtein;
 	vector<int> totFats;
